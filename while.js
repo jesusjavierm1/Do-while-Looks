@@ -24,5 +24,5 @@ do {
 
 
 
-document.write(`the number is ${randomNumber, it took you ${guessCount} tries to guess the number`);
+document.write(`the number is ${randomNumber}, it took you ${guessCount} tries to guess the number`);
 document.write('congratulation!');
